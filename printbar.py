@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
 
 def printbar(char = '-'):
-    print(char * 40)
+    print(char * 80)
