@@ -20,7 +20,7 @@ l = [2, 2, 3, 4 , 5, 'h', 6, "red"]
 even = []
 odd = []
 for year in range (2020, 2040):
-    if (year%2 == 0):
+    if (year % 2 == 0):
         even.append(year)
     else:
         odd.append(year)
